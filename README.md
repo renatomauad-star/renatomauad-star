@@ -1,101 +1,87 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,100:19e3b1&height=230&section=header&text=Renato%20Mauad&fontSize=62&fontColor=ffffff&fontAlignY=36&desc=An%C3%A1lise%20e%20Desenvolvimento%20de%20Sistemas&descSize=18&descAlignY=58&animation=fadeIn" alt="Banner do perfil de Renato Mauad" width="100%" />
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,100:19e3b1&height=200&section=header&text=Renato%20Mauad&fontSize=58&fontColor=ffffff&fontAlignY=38&desc=ol%C3%A1%2C%20mundo!&descSize=20&descAlignY=60&animation=fadeIn" alt="Banner do perfil de Renato Mauad" width="100%" />
 
 <a href="https://github.com/renatomauad-star">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=20&duration=3200&pause=1100&color=19E3B1&center=true&vCenter=true&width=560&height=40&lines=Estudante+de+ADS+na+UNINOVE;Arduino+%2B+IoT+%2B+software;Autodidata+e+sempre+aprendendo;Buscando+meu+primeiro+est%C3%A1gio+em+TI" alt="Frases animadas sobre mim" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=20&duration=3000&pause=1000&color=19E3B1&center=true&vCenter=true&width=560&height=40&lines=ol%C3%A1%2C+mundo!;estudante+de+ADS+na+UNINOVE;Arduino+%2B+IoT+%2B+software;procurando+meu+primeiro+est%C3%A1gio+em+TI" alt="Frases animadas sobre mim" />
 </a>
 
 <br/>
 
-<img src="https://img.shields.io/badge/UNINOVE-2%C2%BA%20semestre-19e3b1?style=flat-square&labelColor=0d1117" alt="UNINOVE, 2º semestre" />
-<img src="https://img.shields.io/badge/S%C3%A3o%20Paulo-SP-19e3b1?style=flat-square&labelColor=0d1117" alt="São Paulo, SP" />
-<img src="https://img.shields.io/badge/aberto%20a-est%C3%A1gio%20e%20trainee%20em%20TI-19e3b1?style=flat-square&labelColor=0d1117" alt="Aberto a estágio e trainee em TI" />
+<sub>🎓 2º semestre de ADS na UNINOVE &nbsp;|&nbsp; 📍 São Paulo &nbsp;|&nbsp; 💼 aberto a estágio e trainee em TI</sub>
 
 </div>
 
----
+<br/>
 
-## Sobre mim
+## quem sou eu
 
-Oi, eu sou o Renato Mauad Souza. Estou no 2º semestre de Análise e Desenvolvimento de Sistemas na UNINOVE, em São Paulo, e procuro meu primeiro estágio em TI.
+fala! Eu sou o Renato 👋 Estudo Análise e Desenvolvimento de Sistemas na UNINOVE, aqui em São Paulo.
 
-O projeto que melhor me representa hoje é o **SenseTech**, feito em equipe na faculdade: sensores de presença com Arduino alimentando um dashboard em tempo real que mostra o fluxo de clientes de um comércio. Nele eu juntei web, banco de dados e IoT, e é nessa mistura de hardware com software que mais quero crescer. Também tenho interesse em **AIoT**, que é inteligência artificial aplicada à Internet das Coisas.
+Eu curto quando o código sai da tela e vira coisa de verdade, como no **SenseTech**, onde sensor de Arduino conversa com um dashboard em tempo real. Aprendo bastante sozinho, com curso, vídeo e muita tentativa e erro. Antes da TI fui repositor de supermercado, e de lá levei responsabilidade e atenção aos detalhes.
 
-Aprendo muito por conta própria, com cursos, vídeos e prática. Antes da TI trabalhei como repositor de supermercado, e levei de lá responsabilidade, atenção aos detalhes e jeito de trabalhar em equipe.
+**no momento:**
 
-**Agora, por aqui:** aprendendo Git, cursando inglês e estudando AIoT.
+- 🎯 atrás do meu primeiro estágio em TI
+- 📚 aprendendo Git
+- 🌎 estudando inglês
+- 🤖 explorando AIoT (IA aplicada à Internet das Coisas)
 
----
+<br/>
 
-## Tecnologias
+## o que eu uso
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=js,py,cpp,html,css,arduino,vscode&theme=dark" alt="JavaScript, Python, C++, HTML, CSS, Arduino e VS Code" />
+  <img src="https://skillicons.dev/icons?i=js,py,cpp,html,css,arduino,git,vscode&theme=dark" alt="JavaScript, Python, C++, HTML, CSS, Arduino, Git e VS Code" />
 </p>
 
-<p align="center">
-  <img src="https://img.shields.io/badge/SQL-19e3b1?style=for-the-badge&labelColor=0d1117&color=19e3b1&logoColor=0d1117" alt="SQL" />
-  <img src="https://img.shields.io/badge/Power%20BI-19e3b1?style=for-the-badge&labelColor=0d1117&color=19e3b1" alt="Power BI" />
-  <img src="https://img.shields.io/badge/Pacote%20Office-19e3b1?style=for-the-badge&labelColor=0d1117&color=19e3b1" alt="Pacote Office" />
-  <img src="https://img.shields.io/badge/Git-aprendendo-0d1117?style=for-the-badge&labelColor=0d1117&color=19e3b1" alt="Git, em aprendizado" />
-</p>
+<p align="center"><sub>e também: SQL · Power BI · Pacote Office</sub></p>
 
----
+<br/>
 
-## Projetos
+## projetos
 
 <table>
   <tr>
     <td>
-      <h3>SenseTech: monitoramento de fluxo de clientes com IoT</h3>
-      <p>Projeto acadêmico (UNINOVE), desenvolvido em equipe. Plataforma web que integra sensores de presença IoT (Arduino) a um dashboard em tempo real, para acompanhar o fluxo de clientes em ambientes comerciais.</p>
-      <p>Passou por coleta de dados via sensores, estruturação de banco de dados e uma interface para visualizar indicadores, juntando front-end, back-end e IoT.</p>
-      <p>
-        <img src="https://img.shields.io/badge/Arduino-0d1117?style=flat-square&color=19e3b1" alt="Arduino" />
-        <img src="https://img.shields.io/badge/IoT-0d1117?style=flat-square&color=19e3b1" alt="IoT" />
-        <img src="https://img.shields.io/badge/Dashboard-0d1117?style=flat-square&color=19e3b1" alt="Dashboard" />
-        <img src="https://img.shields.io/badge/Banco%20de%20dados-0d1117?style=flat-square&color=19e3b1" alt="Banco de dados" />
-        <img src="https://img.shields.io/badge/Front--end-0d1117?style=flat-square&color=19e3b1" alt="Front-end" />
-      </p>
-      <p><a href="https://github.com/renatomauad-star/meu-projeto">Ver o código no GitHub →</a></p>
+      <h3>🚀 SenseTech</h3>
+      <p><b>monitoramento de fluxo de clientes com IoT</b> (projeto da UNINOVE, feito em equipe)</p>
+      <p>Sensores de presença com Arduino mandam dados para um dashboard em tempo real, que mostra o movimento de clientes em ambientes comerciais. Passou por coleta de dados, banco de dados e uma interface para ver os indicadores.</p>
+      <p><code>Arduino</code> <code>IoT</code> <code>Dashboard</code> <code>Banco de dados</code> <code>Front-end</code></p>
+      <p><a href="https://github.com/renatomauad-star/meu-projeto">ver o código no GitHub →</a></p>
     </td>
   </tr>
 </table>
 
 <p align="center">
-  <a href="https://github.com/renatomauad-star/aula-2">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=renatomauad-star&repo=aula-2&theme=dark&bg_color=0d1117&title_color=19e3b1&text_color=c9d1d9&icon_color=19e3b1&border_color=21262d" alt="Repositório aula-2" />
-  </a>
-  <a href="https://github.com/renatomauad-star/Aula-mvc">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=renatomauad-star&repo=Aula-mvc&theme=dark&bg_color=0d1117&title_color=19e3b1&text_color=c9d1d9&icon_color=19e3b1&border_color=21262d" alt="Repositório Aula-mvc" />
+  <a href="https://github.com/gabrielroliveira98-cell/App-DescarteIA">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=gabrielroliveira98-cell&repo=App-DescarteIA&theme=dark&bg_color=0d1117&title_color=19e3b1&text_color=c9d1d9&icon_color=19e3b1&border_color=21262d" alt="Repositório App-DescarteIA, trabalho em grupo" />
   </a>
 </p>
 
----
+<br/>
 
-## Cursos e certificações
+## cursos que já fiz
 
 <details>
-  <summary><b>Ver lista</b></summary>
+  <summary><b>clica aqui pra ver</b></summary>
   <br/>
 
 - SQL
 - Python
-- Curso de Algoritmos (Curso em Vídeo)
+- Algoritmos (Curso em Vídeo)
 - HTML (Curso em Vídeo)
 - Power BI
 - Pacote Office Intermediário
 - Introdução à Gestão de Riscos (EV.G / ENAP)
 - Era Digital, Planejamento Estratégico e Inovação na Gestão Pública (EV.G / ENAP)
 - Estatística para Análise de Dados na Administração Pública (EV.G / ENAP)
-- Inglês (cursando)
 
 </details>
 
----
+<br/>
 
-## Estatísticas do GitHub
+## números (ainda crescendo 📈)
 
 <p align="center">
   <img height="170" src="https://github-readme-stats.vercel.app/api?username=renatomauad-star&show_icons=true&locale=pt-br&theme=dark&bg_color=0d1117&title_color=19e3b1&text_color=c9d1d9&icon_color=19e3b1&border_color=21262d" alt="Estatísticas do GitHub" />
@@ -107,34 +93,21 @@ Aprendo muito por conta própria, com cursos, vídeos e prática. Antes da TI tr
 </p>
 
 <p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=renatomauad-star&bg_color=0d1117&color=c9d1d9&line=19e3b1&point=ffffff&area=true&area_color=19e3b1&hide_border=true" alt="Gráfico de atividade" width="100%" />
-</p>
-
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=renatomauad-star&theme=darkhub&no-frame=true&no-bg=true&margin-w=12&row=1&column=7" alt="Troféus do GitHub" />
-</p>
-
-<p align="center">
   <picture>
     <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/renatomauad-star/renatomauad-star/output/github-snake-dark.svg" />
     <img alt="Cobrinha comendo as contribuições" src="https://raw.githubusercontent.com/renatomauad-star/renatomauad-star/output/github-snake.svg" />
   </picture>
 </p>
 
----
+<p align="center"><sub>🐍 a cobrinha está com fome, bora commitar</sub></p>
 
-## Contato
+<br/>
+
+## fala comigo
 
 <p align="center">
-  <a href="https://www.linkedin.com/in/renato-mauad-souza-41384b3ba">
-    <img src="https://img.shields.io/badge/LinkedIn-0d1117?style=for-the-badge&logo=linkedin&logoColor=19e3b1&color=0d1117&labelColor=0d1117" alt="LinkedIn" />
-  </a>
-  <a href="mailto:renatomauasouza8@gmail.com">
-    <img src="https://img.shields.io/badge/E--mail-0d1117?style=for-the-badge&logo=gmail&logoColor=19e3b1&color=0d1117&labelColor=0d1117" alt="E-mail" />
-  </a>
-  <a href="https://github.com/renatomauad-star">
-    <img src="https://img.shields.io/badge/GitHub-0d1117?style=for-the-badge&logo=github&logoColor=19e3b1&color=0d1117&labelColor=0d1117" alt="GitHub" />
-  </a>
+  <a href="https://www.linkedin.com/in/renato-mauad-souza-41384b3ba"><img src="https://img.shields.io/badge/LINKEDIN-0A66C2?style=for-the-badge" alt="LinkedIn" /></a>
+  <a href="mailto:renatomauasouza8@gmail.com"><img src="https://img.shields.io/badge/GMAIL-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail" /></a>
 </p>
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:19e3b1,100:0d1117&height=120&section=footer&text=valeu%20pela%20visita&fontSize=22&fontColor=ffffff&fontAlignY=68" alt="Rodapé" width="100%" />
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:19e3b1,100:0d1117&height=110&section=footer&text=bora%20codar%3F&fontSize=22&fontColor=ffffff&fontAlignY=68" alt="Rodapé" width="100%" />
