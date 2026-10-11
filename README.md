@@ -39,7 +39,7 @@ Eu curto quando o código sai da tela e vira coisa de verdade, como no **SenseTe
 
 <br/>
 
-## meu projeto favorito
+## projetos
 
 <table>
   <tr>
@@ -52,6 +52,12 @@ Eu curto quando o código sai da tela e vira coisa de verdade, como no **SenseTe
     </td>
   </tr>
 </table>
+
+<p align="center">
+  <a href="https://github.com/gabrielroliveira98-cell/App-DescarteIA">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=gabrielroliveira98-cell&repo=App-DescarteIA&theme=dark&bg_color=0d1117&title_color=19e3b1&text_color=c9d1d9&icon_color=19e3b1&border_color=21262d" alt="Repositório App-DescarteIA, trabalho em grupo" />
+  </a>
+</p>
 
 <br/>
 
