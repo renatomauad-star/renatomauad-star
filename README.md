@@ -1,9 +1,9 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0a0a0a,100:ff3131&height=200&section=header&text=Renato%20Mauad&fontSize=58&fontColor=ffffff&fontAlignY=38&desc=ol%C3%A1%2C%20mundo!&descSize=20&descAlignY=60&animation=fadeIn" alt="Banner do perfil de Renato Mauad" width="100%" />
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,100:19e3b1&height=200&section=header&text=Renato%20Mauad&fontSize=58&fontColor=ffffff&fontAlignY=38&desc=ol%C3%A1%2C%20mundo!&descSize=20&descAlignY=60&animation=fadeIn" alt="Banner do perfil de Renato Mauad" width="100%" />
 
 <a href="https://github.com/renatomauad-star">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=20&duration=3000&pause=1000&color=ff3131&center=true&vCenter=true&width=560&height=40&lines=ol%C3%A1%2C+mundo!;estudante+de+ADS+na+UNINOVE;Arduino+%2B+IoT+%2B+software;procurando+meu+primeiro+est%C3%A1gio+em+TI" alt="Frases animadas sobre mim" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=20&duration=3000&pause=1000&color=19E3B1&center=true&vCenter=true&width=560&height=40&lines=ol%C3%A1%2C+mundo!;estudante+de+ADS+na+UNINOVE;Arduino+%2B+IoT+%2B+software;procurando+meu+primeiro+est%C3%A1gio+em+TI" alt="Frases animadas sobre mim" />
 </a>
 
 <br/>
@@ -55,7 +55,7 @@ Eu curto quando o código sai da tela e vira coisa de verdade, como no **SenseTe
 
 <p align="center">
   <a href="https://github.com/gabrielroliveira98-cell/App-DescarteIA">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=gabrielroliveira98-cell&repo=App-DescarteIA&theme=dark&bg_color=0a0a0a&title_color=ff3131&text_color=c9d1d9&icon_color=ff3131&border_color=2b2b2b" alt="Repositório App-DescarteIA, trabalho em grupo" />
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=gabrielroliveira98-cell&repo=App-DescarteIA&theme=dark&bg_color=0d1117&title_color=19e3b1&text_color=c9d1d9&icon_color=19e3b1&border_color=21262d" alt="Repositório App-DescarteIA, trabalho em grupo" />
   </a>
 </p>
 
@@ -84,12 +84,12 @@ Eu curto quando o código sai da tela e vira coisa de verdade, como no **SenseTe
 ## números (ainda crescendo 📈)
 
 <p align="center">
-  <img height="170" src="https://github-readme-stats.vercel.app/api?username=renatomauad-star&show_icons=true&locale=pt-br&theme=dark&bg_color=0a0a0a&title_color=ff3131&text_color=c9d1d9&icon_color=ff3131&border_color=2b2b2b" alt="Estatísticas do GitHub" />
-  <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=renatomauad-star&layout=compact&locale=pt-br&theme=dark&bg_color=0a0a0a&title_color=ff3131&text_color=c9d1d9&border_color=2b2b2b" alt="Linguagens mais usadas" />
+  <img height="170" src="https://github-readme-stats.vercel.app/api?username=renatomauad-star&show_icons=true&locale=pt-br&theme=dark&bg_color=0d1117&title_color=19e3b1&text_color=c9d1d9&icon_color=19e3b1&border_color=21262d" alt="Estatísticas do GitHub" />
+  <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=renatomauad-star&layout=compact&locale=pt-br&theme=dark&bg_color=0d1117&title_color=19e3b1&text_color=c9d1d9&border_color=21262d" alt="Linguagens mais usadas" />
 </p>
 
 <p align="center">
-  <img src="https://streak-stats.demolab.com?user=renatomauad-star&locale=pt_BR&background=0a0a0a&ring=ff3131&fire=ff3131&currStreakLabel=ff3131&currStreakNum=c9d1d9&sideNums=c9d1d9&sideLabels=8b949e&dates=8b949e&stroke=2b2b2b&border=2b2b2b" alt="Sequência de contribuições" />
+  <img src="https://streak-stats.demolab.com?user=renatomauad-star&locale=pt_BR&background=0d1117&ring=19e3b1&fire=19e3b1&currStreakLabel=19e3b1&currStreakNum=c9d1d9&sideNums=c9d1d9&sideLabels=8b949e&dates=8b949e&stroke=21262d&border=21262d" alt="Sequência de contribuições" />
 </p>
 
 <p align="center">
@@ -106,8 +106,8 @@ Eu curto quando o código sai da tela e vira coisa de verdade, como no **SenseTe
 ## fala comigo
 
 <p align="center">
-  <a href="https://www.linkedin.com/in/renato-mauad-souza-41384b3ba"><img src="https://img.shields.io/badge/LINKEDIN-ff3131?style=for-the-badge" alt="LinkedIn" /></a>
-  <a href="mailto:renatomauasouza8@gmail.com"><img src="https://img.shields.io/badge/GMAIL-ff3131?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail" /></a>
+  <a href="https://www.linkedin.com/in/renato-mauad-souza-41384b3ba"><img src="https://img.shields.io/badge/LINKEDIN-0A66C2?style=for-the-badge" alt="LinkedIn" /></a>
+  <a href="mailto:renatomauasouza8@gmail.com"><img src="https://img.shields.io/badge/GMAIL-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail" /></a>
 </p>
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:ff3131,100:0a0a0a&height=110&section=footer&text=bora%20codar%3F&fontSize=22&fontColor=ffffff&fontAlignY=68" alt="Rodapé" width="100%" />
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:19e3b1,100:0d1117&height=110&section=footer&text=bora%20codar%3F&fontSize=22&fontColor=ffffff&fontAlignY=68" alt="Rodapé" width="100%" />
